@@ -17,7 +17,7 @@ Python console app hangman game based on the [code](https://github.com/markpatte
 1. Submission: _commit_ and _push_ your changes to the current project to GitHub
 1. do not edit _autograding_ or _classroom_ files
 > :warning: **Note:** the autograding is simplified on purpose, it will be overwritten after the submission deadline with additional tests
-
+> :warning: **Note:** if you add tests, all tests should pass for the final submission
 
 ## Style check
 
