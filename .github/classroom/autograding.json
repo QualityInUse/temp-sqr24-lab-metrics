@@ -1,0 +1,24 @@
+{
+    "tests": [
+      {
+        "name": "Regression",
+        "setup": "sudo -H pip3 install poetry ; poetry install",
+        "run": "poetry run pytest .",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 5,
+        "points": 0
+      },
+      {
+        "name": "Flake",
+        "setup": "sudo -H pip3 install poetry ; poetry install",
+        "run": "poetry run flake8 .",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 5,
+        "points": 5
+      }
+    ]
+  }
