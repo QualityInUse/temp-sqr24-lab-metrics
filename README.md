@@ -6,4 +6,4 @@ Python console app hangman game.
 
 1. `pip install poetry`
 2. `poetry install`
-3. `poetry run app/hangman.py`
+3. `poetry run python app/hangman.py`
